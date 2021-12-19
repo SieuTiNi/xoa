@@ -22,3 +22,4 @@ git log(hoặc status): check xem trạng thái file.
 git log -decorate -graph -oneline
 
 đoạn này dùng gitpull test
+abc
